@@ -1,0 +1,8 @@
+{
+  "gemName": "nutanix_prism",
+  "gemAuthor": "ManageIQ Developers",
+  "gemSummary": "Nutanix Prism API",
+  "gemDescription": "Ruby gem for Nutanix Prism APIs",
+  "gemLicense": "Apache-2.0",
+  "useAutoload": true
+}
